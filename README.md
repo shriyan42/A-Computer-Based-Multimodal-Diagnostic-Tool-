@@ -65,7 +65,7 @@ Localize the app into other languages
 
 Enhance the GPT prompt or replace it with open-source LLM alternatives
 
-🧠 Want to contribute? Fork the repo, add a module or suggest an enhancement via issues or pull requests!
+ Want to contribute? Fork the repo, add a module or suggest an enhancement via issues or pull requests!
 
 📄 License
 This project is open-sourced under the MIT License. Use it, build on it, and help make early detection more accessible and affordable for everyone.
